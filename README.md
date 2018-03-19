@@ -1,1 +1,4 @@
-# Code-Snippets
+# Code-Snippets for different languages
+
+css/
+js/
