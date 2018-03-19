@@ -1,4 +1,4 @@
 # Code-Snippets for different languages
 
-css/__
+css/  
 js/
