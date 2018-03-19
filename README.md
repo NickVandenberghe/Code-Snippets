@@ -6,14 +6,14 @@ css/
 * clearfix  
   js/
 
-# Typography
+## Typography
 
 * font-size 15-25px body text
 * (really) big font sizes for headlines
 * line spacing 120%-150%
 * 45 - 90 characters per line
 
-## Good fonts
+### Good fonts
 
 * sans-serif
   * more neutral
