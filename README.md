@@ -25,7 +25,7 @@ css/
 [Lato](https://fonts.google.com/specimen/Lato)  
 [Raleway](https://fonts.google.com/specimen/Raleway)  
 [Montserrat](https://fonts.google.com/specimen/Montserrat)  
-[PT Sans](https://fonts.google.com/specimen/PT+Sans)  
+[PT Sans](https://fonts.google.com/specimen/PT+Sans)
 
 * serif
   * traditional purposes
@@ -34,4 +34,19 @@ css/
 
 [Cardo](https://fonts.google.com/specimen/Cardo)  
 [Merriweather](https://fonts.google.com/specimen/Merriweather)  
-[PT Serif](https://fonts.google.com/specimen/PT+Serif)  
+[PT Serif](https://fonts.google.com/specimen/PT+Serif)
+
+## Colour
+
+[Flat UI Colors 2 - 14 Color Palettes, 280 colors 🎨](https://flatuicolors.com/)  
+[0to255 – A color tool for finding lighter and darker colors based on any color](http://www.0to255.com/)  
+[Adobe Color CC](https://color.adobe.com/create/color-wheel/)
+
+* use only 1 base colour
+* use a tool for more colours
+* use colour to draw attention
+* Never use black in design
+* Choose colours wisely
+  * look at colour associations
+  * darker ==> powerful
+  * brichter ==> energetic
