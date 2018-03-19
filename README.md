@@ -21,17 +21,17 @@ css/
   * simple
   * modern websites
 
-[Open Sans](https://fonts.google.com/specimen/Open+Sans)
-[Lato](https://fonts.google.com/specimen/Lato)
-[Raleway](https://fonts.google.com/specimen/Raleway)
-[Montserrat](https://fonts.google.com/specimen/Montserrat)
-[PT Sans](https://fonts.google.com/specimen/PT+Sans)
+[Open Sans](https://fonts.google.com/specimen/Open+Sans)  
+[Lato](https://fonts.google.com/specimen/Lato)  
+[Raleway](https://fonts.google.com/specimen/Raleway)  
+[Montserrat](https://fonts.google.com/specimen/Montserrat)  
+[PT Sans](https://fonts.google.com/specimen/PT+Sans)  
 
 * serif
   * traditional purposes
   * storytelling
   * long reading
 
-[Cardo](https://fonts.google.com/specimen/Cardo)
-[Merriweather](https://fonts.google.com/specimen/Merriweather)
-[PT Serif](https://fonts.google.com/specimen/PT+Serif)
+[Cardo](https://fonts.google.com/specimen/Cardo)  
+[Merriweather](https://fonts.google.com/specimen/Merriweather)  
+[PT Serif](https://fonts.google.com/specimen/PT+Serif)  
