@@ -4,7 +4,8 @@ css/
 
 * reset
 * clearfix  
-  js/
+  
+js/
 
 ## Typography
 
