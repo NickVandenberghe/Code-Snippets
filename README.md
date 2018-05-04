@@ -7,6 +7,9 @@ css/
   
 js/
 
+* groupBy
+* round
+
 ## Typography
 
 1.  font-size 15-25px body text
